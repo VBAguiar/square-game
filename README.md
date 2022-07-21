@@ -1,2 +1,6 @@
 # SQUARE
-# square-game
+
+requirements:
+```
+pygame
+```
